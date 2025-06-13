@@ -1,6 +1,4 @@
----
 
-```markdown
 # SmartTask Pro – Full-Stack Task Management App
 
 A full-stack Task Manager web application built using **Java Spring Boot** (backend) and **React.js** (frontend). This app allows users to add, view, update, and delete tasks, with real-time UI updates and persistent backend storage.
